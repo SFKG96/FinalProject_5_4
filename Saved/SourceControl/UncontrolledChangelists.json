@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/_Unreal Projects/Git_Hub_Final_Project_5_4/FinalProject_5_4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/_Unreal Projects/Git_Hub_Final_Project_5_4/FinalProject_5_4/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
+				"D:/_Unreal Projects/Git_Hub_Final_Project_5_4/FinalProject_5_4/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/29/P6IVC96340A623QAJLQHJP.uasset",
+				"D:/_Unreal Projects/Git_Hub_Final_Project_5_4/FinalProject_5_4/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/W9/Z2TFJ0AJPLSRXNLBN9STS5.uasset",
+				"D:/_Unreal Projects/Git_Hub_Final_Project_5_4/FinalProject_5_4/Content/TopDown/Normal_Joe_Anim/Animetion/ABP_Normal_Joe.uasset"
+			]
+		}
+	]
+}
